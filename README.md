@@ -4,6 +4,8 @@ Neumorphism brings the soft-UI ("neumorphic") design language to native SwiftUI 
 
 Every style is modeled directly against Apple's own equivalent (`.bordered`, `.switch`, `.circular`, `.compact`, and so on), including matching each one's real platform and OS-version availability — a style that's watchOS-only or macOS-only on Apple's side is restricted the same way here.
 
+> **Note:** This is a personal side project made just for fun, so it's rough around the edges and incomplete in places. If it looks interesting to you, feel free to use it or contribute as you like.
+
 ## Requirements
 
 <p align="center">
